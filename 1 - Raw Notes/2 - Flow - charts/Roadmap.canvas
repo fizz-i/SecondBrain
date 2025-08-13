@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"36e8e172d2bf1ac1","type":"text","text":"PYTHON","x":-1100,"y":-820,"width":250,"height":60,"color":"5"},
+		{"id":"7d75203f4745f316","type":"text","text":"MATHEMATICS","x":-660,"y":-820,"width":250,"height":60},
+		{"id":"76ab3dd417f2c8cf","type":"text","text":"Foundation","x":-975,"y":-680,"width":250,"height":60,"color":"5"},
+		{"id":"83ba8234334c35e6","type":"text","text":"CALCULUS, LINEAR ALGEBRA, STATS&PROBAB","x":-535,"y":-680,"width":250,"height":60},
+		{"id":"b92d2802dadf48b6","type":"text","text":"DEEP LEARNING\n","x":200,"y":-820,"width":250,"height":60},
+		{"id":"bb26acb6ee92bc55","type":"text","text":"Data Manipulation","x":-220,"y":-820,"width":250,"height":60},
+		{"id":"ee0156f1584dc107","type":"text","text":"TRAINING","x":-95,"y":-680,"width":250,"height":60},
+		{"id":"8a9b951da7f62674","type":"file","file":"The plan/HOW(From deepseek).md","x":660,"y":-820,"width":400,"height":400},
+		{"id":"2d05ad6fddf2878c","type":"text","text":"Supervised/unsupervised learning, neural networks","x":300,"y":-680,"width":250,"height":60},
+		{"id":"05932a7f7c80a17a","type":"text","text":"Tensorflow, Pytorch","x":280,"y":-580,"width":250,"height":60},
+		{"id":"b749e88f9431e6ab","type":"text","text":"LIBS : Master NumPy, Pandas, Matplotlib, and Scikit-learn","x":-975,"y":-180,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e67b2801c158a908","fromNode":"36e8e172d2bf1ac1","fromSide":"right","toNode":"7d75203f4745f316","toSide":"left"},
+		{"id":"3335954133a5b924","fromNode":"7d75203f4745f316","fromSide":"right","toNode":"bb26acb6ee92bc55","toSide":"left"},
+		{"id":"9a9c6f41629f5fd1","fromNode":"36e8e172d2bf1ac1","fromSide":"bottom","toNode":"76ab3dd417f2c8cf","toSide":"left"},
+		{"id":"7b06a9d13f148206","fromNode":"36e8e172d2bf1ac1","fromSide":"bottom","toNode":"b749e88f9431e6ab","toSide":"left"},
+		{"id":"1ac8e13471937dff","fromNode":"7d75203f4745f316","fromSide":"bottom","toNode":"83ba8234334c35e6","toSide":"left"},
+		{"id":"2a8c789a01c943e3","fromNode":"b92d2802dadf48b6","fromSide":"bottom","toNode":"2d05ad6fddf2878c","toSide":"left"},
+		{"id":"c1900599c9bc100a","fromNode":"b92d2802dadf48b6","fromSide":"bottom","toNode":"05932a7f7c80a17a","toSide":"left"},
+		{"id":"1f194c99416691c8","fromNode":"bb26acb6ee92bc55","fromSide":"right","toNode":"b92d2802dadf48b6","toSide":"left"},
+		{"id":"9d2faf321295adb8","fromNode":"bb26acb6ee92bc55","fromSide":"bottom","toNode":"ee0156f1584dc107","toSide":"left"},
+		{"id":"264afce198a5f9e2","fromNode":"b92d2802dadf48b6","fromSide":"right","toNode":"8a9b951da7f62674","toSide":"left"}
+	]
+}

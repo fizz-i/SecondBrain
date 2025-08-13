@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a48611902b8ee841",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de0986de3ea46cfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Raw Notes/1 - Programming/Languages/C-CPP/C/Basics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2e0158987e3f78a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e930894cd4633df2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b97c1f81c148f7cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e270feddb0b42408",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6a803154f795af15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "108469e8ff04127c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2313b63b09253fbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d37777f575ab4056",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Raw Notes/1 - Programming/Languages/C-CPP/C/Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Basics"
+            }
+          },
+          {
+            "id": "3d68bc9a5cc2d5f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 - Indexes/Python.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Python"
+            }
+          },
+          {
+            "id": "3969497225b63ee1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d4b172369f5a3997",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Raw Notes/1 - Programming/Libraries/Numpy/Numpy.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Numpy"
+            }
+          },
+          {
+            "id": "e3e292881979ae59",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "efbd14268912c98e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2e73701fb58680f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b97c1f81c148f7cf",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "1 - Raw Notes/1 - Programming/Languages/C-CPP/C/Basics.md",
+    "2025-08-13.md",
+    "3 - Scrap/B - Tags/C.md",
+    "3 - Scrap/B - Tags/Data Structures.md",
+    "3 - Scrap/B - Tags/Machine Learning.md",
+    "3 - Scrap/B - Tags/Methods.md",
+    "3 - Scrap/B - Tags/OOP.md",
+    "2 - Indexes/Python.md",
+    "1 - Raw Notes/1 - Programming/Languages/Python/Basics/1 - Basics.md",
+    "1 - Raw Notes/1 - Programming/Languages/C-CPP/CPP",
+    "1 - Raw Notes/1 - Programming/Languages/C-CPP/C",
+    "1 - Raw Notes/1 - Programming/Languages/C-CPP",
+    "1 - Raw Notes/1 - Programming/Languages/Python/Basics/2 - Collections.md",
+    "1 - Raw Notes/1 - Programming/Libraries/Numpy/Numpy.md",
+    "1 - Raw Notes/1 - Programming/Libraries/Numpy/README.md",
+    "1 - Raw Notes/1 - Programming/Languages/Python/OOP/0 - Basics.md",
+    "1 - Raw Notes/1 - Programming/Languages/Python/OOP/0.1 - The BIG 4.md",
+    "1 - Raw Notes/1 - Programming/Languages/Python/Basics/4 - Functions.md",
+    "1 - Raw Notes/1 - Programming/Languages/Python/Basics/__name__.md",
+    "1 - Raw Notes/2 - Flow - charts/Roadmap.canvas",
+    "1 - Raw Notes/2 - Flow - charts/The PLAN.md",
+    "HOW(From deepseek).md",
+    "1 - Raw Notes/2 - Flow - charts/ML Pre-Fundamentals.canvas",
+    "1 - Raw Notes/1 - Programming/Languages/Python/Basics/5 - Loops.md",
+    "1 - Raw Notes/1 - Programming/Languages/Python/OOP/1 - Inheritance.md",
+    "1 - Raw Notes/1 - Programming/Languages/Python/OOP/OOP.md",
+    "1 - Raw Notes/1 - Programming/Languages/Python/Basics/Variable Scope.md",
+    "1 - Raw Notes/1 - Programming/Languages/Python/Basics/String.md",
+    "1 - Raw Notes/1 - Programming/Languages/Python/Basics/Random.md",
+    "1 - Raw Notes/1 - Programming/Languages/Python/Basics/Modules.md",
+    "1 - Raw Notes/1 - Programming/Languages/Python/Basics",
+    "1 - Raw Notes/4 - Video References/Inspiration",
+    "1 - Raw Notes/4 - Video References/Dev Vids",
+    "1 - Raw Notes/1 - Programming/Libraries",
+    "1 - Raw Notes/1 - Programming/Languages",
+    "3 - Scrap/B - Tags",
+    "1 - Raw Notes/2 - Flow - charts"
+  ]
+}
